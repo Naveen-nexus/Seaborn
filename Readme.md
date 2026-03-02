@@ -1,1 +1,1 @@
-Learning seaborn libraray in depth
+Learning seaborn library in depth
